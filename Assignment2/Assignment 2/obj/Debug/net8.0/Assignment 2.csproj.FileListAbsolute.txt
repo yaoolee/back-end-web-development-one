@@ -1,0 +1,36 @@
+D:\backend\Assignment 2\Assignment 2\bin\Debug\net8.0\appsettings.Development.json
+D:\backend\Assignment 2\Assignment 2\bin\Debug\net8.0\appsettings.json
+D:\backend\Assignment 2\Assignment 2\bin\Debug\net8.0\Assignment 2.staticwebassets.endpoints.json
+D:\backend\Assignment 2\Assignment 2\bin\Debug\net8.0\Assignment 2.exe
+D:\backend\Assignment 2\Assignment 2\bin\Debug\net8.0\Assignment 2.deps.json
+D:\backend\Assignment 2\Assignment 2\bin\Debug\net8.0\Assignment 2.runtimeconfig.json
+D:\backend\Assignment 2\Assignment 2\bin\Debug\net8.0\Assignment 2.dll
+D:\backend\Assignment 2\Assignment 2\bin\Debug\net8.0\Assignment 2.pdb
+D:\backend\Assignment 2\Assignment 2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\backend\Assignment 2\Assignment 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\backend\Assignment 2\Assignment 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\backend\Assignment 2\Assignment 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.csproj.AssemblyReference.cache
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.AssemblyInfoInputs.cache
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.AssemblyInfo.cs
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.csproj.CoreCompileInputs.cache
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.MvcApplicationPartsAssemblyInfo.cs
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.MvcApplicationPartsAssemblyInfo.cache
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\scopedcss\bundle\Assignment 2.styles.css
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\staticwebassets.build.json
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\staticwebassets.development.json
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\staticwebassets\msbuild.Assignment 2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\staticwebassets\msbuild.Assignment 2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\staticwebassets\msbuild.build.Assignment 2.props
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Assignment 2.props
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Assignment 2.props
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\staticwebassets.pack.json
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignme.B8B9BD87.Up2Date
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.dll
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\refint\Assignment 2.dll
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.pdb
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.genruntimeconfig.cache
+D:\backend\Assignment 2\Assignment 2\obj\Debug\net8.0\ref\Assignment 2.dll
